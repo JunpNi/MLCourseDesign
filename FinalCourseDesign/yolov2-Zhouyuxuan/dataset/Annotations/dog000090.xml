@@ -1,0 +1,21 @@
+<annotation>
+	<folder>captures_vlc</folder>
+	<filename>dog000090.JPEG</filename>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>14</ymin>
+			<xmax>51</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+</annotation>

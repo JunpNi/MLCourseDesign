@@ -1,0 +1,21 @@
+<annotation>
+	<folder>captures_vlc</folder>
+	<filename>lizard000037.JPEG</filename>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lizard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>11</ymin>
+			<xmax>64</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+</annotation>

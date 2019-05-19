@@ -1,0 +1,21 @@
+<annotation>
+	<folder>captures_vlc</folder>
+	<filename>turtle000057.JPEG</filename>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>turtle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>18</ymin>
+			<xmax>83</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+</annotation>
