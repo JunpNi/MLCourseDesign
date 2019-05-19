@@ -1,0 +1,6 @@
+classes=5
+train=data/tiny_vid_train.txt
+valid=data/tiny_vid_test.txt
+names=data/tiny_vid.names
+backup=backup/
+eval=coco
